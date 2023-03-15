@@ -1,0 +1,10 @@
+prod:
+  prod:
+    addr: "127.0.0.1"
+    username: "query"
+    password: "123456"
+qa:
+  qa:
+    addr: "127.0.0.2"
+    username: "search"
+    password: "111111"
